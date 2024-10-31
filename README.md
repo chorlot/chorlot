@@ -1,4 +1,13 @@
-## Hi there 👋
+Hello à tous 👋 **The name's Durand, Charles Durand** 
+
+Je suis un passionné de **data analytics**, actuellement en formation chez Le Wagon pour devenir **Data Analyst**. J'ai 3 ans d'expérience dans les ventes, avec un rôle récent en tant que **Sales Account Manager** chez Payfit. Je suis également un grand fan de **jeux vidéo**, notamment de la franchise **Pokémon** et des jeux de stratégie.
+
+## Compétences
+
+- **Langages de programmation**: Python, SQL
+- **Outils de data analytics**: Google Sheets, BigQuery
+
+💬 Passioné par : Vélo Gravel 🚴, One Piece 🏴‍☠️, Pokémon ✨ (shiny)
 
 <!--
 **chorlot/chorlot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
